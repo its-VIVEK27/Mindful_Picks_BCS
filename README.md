@@ -5,7 +5,7 @@ B. PANDAS EXERCISES : [Colab Notebook](https://colab.research.google.com/drive/1
 ***
 
 Week 1 : \
-**Topics and Resources** \
+**Topics and Resources** 
 
 ### 1. **What is Machine Learning (ML)?**
 #### **Reading Material**  
