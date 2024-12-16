@@ -39,11 +39,6 @@ B. PANDAS EXERCISES : [Colab Notebook](https://colab.research.google.com/drive/1
 
 ---
 
-### 3. **Introduction to Natural Language Processing (NLP)**  
-#### **Video Playlist**  
-- [Natural Language Processing Crash Course (Codebasics Playlist)](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)  
-
----  
 Feel free to reach out if you face any challenges while exploring these topics. Happy learning! 😊
 
 ---
