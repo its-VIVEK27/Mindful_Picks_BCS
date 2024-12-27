@@ -37,7 +37,7 @@ B. PANDAS EXERCISES : [Colab Notebook](https://colab.research.google.com/drive/1
 - [Linear Regression and Gradient Descent (Codebasics)](https://youtu.be/sDv4f4s2SB8?si=FQQZkoGLkGARSKFW)  
 - [Deep Dive into Gradient Descent (Simplilearn)](https://youtu.be/sDv4f4s2SB8?si=Nape6lzL4cOY6b1C)  
 ---
-Task 2 : 
+**Task 2** : 
 I hope that now you all are familiar with the concept of linear regression and gradient descent. This task is just the Python implementation of linear regression and gradient descent so that you can see it work in action.  
 
 Firstly, I want you all to go through the OOPs concept in Python:  
@@ -47,7 +47,7 @@ This is not related to the task nor is it mandatory, but it will be quite helpfu
 Now, follow the instructions in the notebook:  
 [Colab Notebook - Linear Regression and Gradient Descent](https://colab.research.google.com/drive/1kEqe5ewt2pjtxIHLPH_iHptv71NojOdW?usp=sharing)
 
-### Week 3 : NLP basics (Vectorization)
+### 3. **NLP basics (Vectorization)**
 #### **Resources** : 
 * https://youtu.be/fNxaJsNG3-s?si=x7oty8kxB4akxddX
 * https://www.geeksforgeeks.org/text-preprocessing-for-nlp-tasks/
