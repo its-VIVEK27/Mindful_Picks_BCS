@@ -49,10 +49,10 @@ Now, follow the instructions in the notebook:
 
 ### 3. **NLP basics (Vectorization)**
 #### **Resources** : 
-* https://youtu.be/fNxaJsNG3-s?si=x7oty8kxB4akxddX
-* https://www.geeksforgeeks.org/text-preprocessing-for-nlp-tasks/
-* https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
-* https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/
+* Tokenization : https://youtu.be/fNxaJsNG3-s?si=x7oty8kxB4akxddX
+* Text Preprocessing : https://www.geeksforgeeks.org/text-preprocessing-for-nlp-tasks/
+* Bag of Words : https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/
+* TF - IDF : https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/
 ---
 Feel free to reach out if you face any challenges while exploring these topics. Happy learning! 😊
 
